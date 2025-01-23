@@ -1,0 +1,7 @@
+### dotenv template
+.env
+.lando.yml
+node_modules/
+.idea/
+/vendor/
+.DS_Store
