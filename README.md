@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Codecraft versão 2
 
 Este projeto é uma aplicação que integra o framework Laravel 11 para o backend e Next.js para o frontend, utilizando Lando como ambiente de desenvolvimento local.
@@ -287,3 +288,6 @@ frontend/
 ## Licença
 
 Este projeto é distribuído sob a licença MIT.
+=======
+# codecraft3
+>>>>>>> 9170c3840cd18b9f91e40d300fb05e074ad52fb6
